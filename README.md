@@ -201,6 +201,21 @@ You can click the Preview link to take a look at your changes.
         height="40"
         style="max-width: 100%" />
     </a>
+  </code>  
+  
+  <!-- VsCode -->
+  <code>
+    <a
+      target="_blank"
+      rel="noopener noreferrer"
+      href="http://icon.luizlima.online/vscode.svg">
+      <img
+        src="http://icon.luizlima.online/vscode.svg"
+        title="VScode"
+        width="40"
+        height="40"
+        style="max-width: 100%" />
+    </a>
   </code>
   
   
