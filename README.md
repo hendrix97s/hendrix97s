@@ -79,6 +79,21 @@ You can click the Preview link to take a look at your changes.
     </a>
   </code>
   
+  <!-- Composer -->
+  <code>
+    <a
+      target="_blank"
+      rel="noopener noreferrer"
+      href="http://icon.luizlima.online/composer.svg">
+      <img
+        src="http://icon.luizlima.online/composer.svg"
+        title="Composer"
+        width="40"
+        height="40"
+        style="max-width: 100%"/>
+    </a>
+  </code>
+  
   <!-- LARAVEL -->
   <code>
     <a
@@ -110,7 +125,22 @@ You can click the Preview link to take a look at your changes.
         style="max-width: 100%" />
     </a>
   </code>
-
+  
+  <!-- Bootstrap -->
+  <code>
+    <a
+      target="_blank"
+      rel="noopener noreferrer"
+      href="http://icon.luizlima.online/bootstrap.svg">
+      <img
+        src="http://icon.luizlima.online/bootstrap.svg"
+        title="Bootstrap"
+        width="40"
+        height="40"
+        style="max-width: 100%"/>
+    </a>
+  </code>
+  
   <!-- DOCKER -->
   <code>
     <a
@@ -173,21 +203,6 @@ You can click the Preview link to take a look at your changes.
     </a>
   </code>
 
-  <!-- Python -->
-  <code>
-    <a
-      target="_blank"
-      rel="noopener noreferrer"
-      href="http://icon.luizlima.online/python.svg">
-      <img
-        src="http://icon.luizlima.online/python.svg"
-        title="Python"
-        width="40"
-        height="40"
-        style="max-width: 100%" />
-    </a>
-  </code>
-
   <!-- Blender -->
   <code>
     <a
@@ -212,6 +227,36 @@ You can click the Preview link to take a look at your changes.
       <img
         src="http://icon.luizlima.online/vscode.svg"
         title="VScode"
+        width="40"
+        height="40"
+        style="max-width: 100%" />
+    </a>
+  </code>
+  
+  <!-- Access -->
+  <code>
+    <a
+      target="_blank"
+      rel="noopener noreferrer"
+      href="http://icon.luizlima.online/access.svg">
+      <img
+        src="http://icon.luizlima.online/access.svg"
+        title="Access"
+        width="40"
+        height="40"
+        style="max-width: 100%" />
+    </a>
+  </code>
+  
+  <!-- Excel -->
+  <code>
+    <a
+      target="_blank"
+      rel="noopener noreferrer"
+      href="http://icon.luizlima.online/excel.svg">
+      <img
+        src="http://icon.luizlima.online/excel.svg"
+        title="Excel"
         width="40"
         height="40"
         style="max-width: 100%" />
