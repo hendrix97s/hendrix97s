@@ -140,7 +140,12 @@ You can click the Preview link to take a look at your changes.
         style="max-width: 100%"/>
     </a>
   </code>
+
   
+  
+</p>
+<p align="left">
+    
   <!-- DOCKER -->
   <code>
     <a
@@ -262,6 +267,4 @@ You can click the Preview link to take a look at your changes.
         style="max-width: 100%" />
     </a>
   </code>
-  
-  
-</p>
+ </p>
