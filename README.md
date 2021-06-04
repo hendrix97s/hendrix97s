@@ -16,10 +16,9 @@
             <a
               target="_blank"
               rel="noopener noreferrer"
-              href="https://github.com/josepholiveira/josepholiveira/blob/master/images/illustration.png"
-              ><img
-                align="right"
-                src="https://github.com/josepholiveira/josepholiveira/raw/master/images/illustration.png"
+              href="http://icon.luizlima.online/programmer.png"
+              ><img align="right"
+                src="http://icon.luizlima.online/programmer.png"
                 width="300"
                 style="max-width: 100%"
             /></a>
