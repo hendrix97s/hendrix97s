@@ -27,6 +27,9 @@ Atualmente presto serviços para a web.art group, uma grande empresa tecnológic
   <code><img alt="Redis"      height="40" src="http://icons.luizlima.online/redis/redis-original.svg"></code>
   <code><img alt="Docker"     height="40" src="http://icons.luizlima.online/docker/docker-original.svg"></code>
   <code><img alt="Composer"   height="40" src="http://icons.luizlima.online/composer/composer-original.svg"></code>
+  <code><img alt="Bootstrap"   height="40" src="http://icons.luizlima.online/bootstrap/bootstrap-plain.svg"></code>
+  <code><img alt="Ubuntu"   height="40" src="http://icons.luizlima.online/ubuntu/ubuntu-plain.svg"></code>
+ 
  
   
  </div>
