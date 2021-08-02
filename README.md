@@ -20,6 +20,8 @@
   <code><img alt="graphQL"    height="40" src="http://icons.luizlima.online/graphql/graphql-plain.svg"></code>
   <code><img alt="mySQL"      height="40" src="http://icons.luizlima.online/mysql/mysql-plain.svg"></code>
   <code><img alt="mongoDB"    height="40" src="http://icons.luizlima.online/mongodb/mongodb-plain.svg"></code>
+  <code><img alt="Redis"    height="40" src="http://icons.luizlima.online/redis/redis-original.svg"></code>
+  
  </div>
  
 ##
