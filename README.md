@@ -1,6 +1,8 @@
 <div>
  <div>
-  Sobre mim, um novo texto...
+ Description ...
+  
+  
  </div>
  <div  align="right">
   <img alt="gif" src="http://icons.luizlima.online/gifs/code.gif">
