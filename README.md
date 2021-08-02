@@ -9,7 +9,7 @@
  
 ##
 
- <div>
+ <div align="center">
   <code><img alt="PHP"        height="40" src="http://icons.luizlima.online/php/php-original.svg"></code>
   <code><img alt="JavaScript" height="40" src="http://icons.luizlima.online/javascript/javascript-original.svg"></code>
   <code><img alt="HTML5"      height="40" src="http://icons.luizlima.online/html5/html5-plain.svg"></code>
@@ -24,7 +24,7 @@
  
 ##
 
-<div>
+<div  align="center">
   <a href="https://github.com/hendrix97s">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hendrix97s&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hendrix97s&layout=compact&langs_count=16&theme=merko"/>
