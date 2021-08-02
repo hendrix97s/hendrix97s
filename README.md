@@ -1,5 +1,12 @@
-
-
+<div>
+ <div>
+  Sobre mim, um novo texto...
+ </div>
+ <div  align="right">
+  <img alt="gif" src="http://icons.luizlima.online/gifs/code.gif">
+ </div>
+<div>
+ 
 ##
 
  <div>
