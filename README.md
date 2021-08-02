@@ -1,8 +1,9 @@
 <div>
- <div>
- Description ...
+ <div align="left">
+  <h4>Olá! Me chamo Luiz Felipe, e vou falar um pouco do que faço hoje...</h4>
   
-  
+   <p>Atualmente presto serviços para a web.art group, uma grande empresa <br/>tecnológica com foco em marketplace, e meu principal papel é colaborar no<br/> backend da plataforma de base PHP dando manutenção e desenvolvendo <br/>novas integrações de canais de vendas e mídias, tal como Merchant Center, <br/>Shopee, Amazon entre outros canais de venda.</p>
+
  </div>
  <div  align="right">
   <img alt="gif" src="http://icons.luizlima.online/gifs/code.gif">
