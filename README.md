@@ -13,7 +13,7 @@
   <code><img alt="mySQL" height="34" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.1/icons/mysql.svg"></code>
   <code><img alt="mongoDB" height="34" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.1/icons/mongodb.svg"></code>
  </div>
- 
+<hr>
 <div>
   <a href="https://github.com/hendrix97s">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
