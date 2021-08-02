@@ -1,14 +1,15 @@
-<div>
- <div align="left">
-  <h4>Olá! Me chamo Luiz Felipe, e vou falar um pouco do que faço hoje...</h4>
-  
-   <p>Atualmente presto serviços para a web.art group, uma grande empresa <br/>tecnológica com foco em marketplace, e meu principal papel é colaborar no<br/> backend da plataforma de base PHP dando manutenção e desenvolvendo <br/>novas integrações de canais de vendas e mídias, tal como Merchant Center, <br/>Shopee, Amazon entre outros canais de venda.</p>
+## Olá! Me chamo Luiz Felipe, e vou falar um pouco do que faço hoje... 
 
- </div>
- <div  align="right">
-  <img alt="gif" src="http://icons.luizlima.online/gifs/code.gif">
- </div>
-<div>
+<img align="right" alt="gif-code" src="http://icons.luizlima.online/gifs/code.gif">
+
+Atualmente presto serviços para a web.art group, uma grande empresa tecnológica com foco em marketplace, e meu principal papel é colaborar no backend da plataforma de base PHP dando manutenção e desenvolvendo novas integrações de canais de vendas e mídias, tal como Merchant Center, Shopee, Amazon entre outros canais de venda.
+
+- 👨🏻‍💻 Developer with more then 3 years experience;
+- 🔭 I’m currently working on a [web.art group](https://www.webart.com.br/) 🌱;
+- 🌱 I’m currently learning everything 🤣;
+- 💡 I love innovation and new technologies;
+- 🚀 One day I will see life on other planets;
+- ⚡ Fun fact: I love to draw.
  
 ##
 
