@@ -23,12 +23,20 @@ Atualmente presto serviços para a web.art group, uma grande empresa tecnológic
   <code><img alt="Laravel"    height="40" src="http://icons.luizlima.online/laravel/laravel-plain.svg"></code>
   <code><img alt="graphQL"    height="40" src="http://icons.luizlima.online/graphql/graphql-plain.svg"></code>
   <code><img alt="mySQL"      height="40" src="http://icons.luizlima.online/mysql/mysql-plain.svg"></code>
+ 
+ <br/>
+ <br/>
+ 
   <code><img alt="mongoDB"    height="40" src="http://icons.luizlima.online/mongodb/mongodb-plain.svg"></code>
   <code><img alt="Redis"      height="40" src="http://icons.luizlima.online/redis/redis-original.svg"></code>
   <code><img alt="Docker"     height="40" src="http://icons.luizlima.online/docker/docker-original.svg"></code>
   <code><img alt="Composer"   height="40" src="http://icons.luizlima.online/composer/composer-original.svg"></code>
-  <code><img alt="Bootstrap"   height="40" src="http://icons.luizlima.online/bootstrap/bootstrap-plain.svg"></code>
-  <code><img alt="Ubuntu"   height="40" src="http://icons.luizlima.online/ubuntu/ubuntu-plain.svg"></code>
+  <code><img alt="Bootstrap"  height="40" src="http://icons.luizlima.online/bootstrap/bootstrap-plain.svg"></code>
+  <code><img alt="Ubuntu"     height="40" src="http://icons.luizlima.online/ubuntu/ubuntu-plain.svg"></code>
+  <code><img alt="Windows"    height="40" src="http://icons.luizlima.online/windows8/windows8-original.svg"></code>
+  <code><img alt="Excel"      height="40" src="http://icons.luizlima.online/microsoft/excel.svg"></code>
+  <code><img alt="Access"     height="40" src="http://icons.luizlima.online/microsoft/access.svg"></code>
+  
  
  
   
