@@ -2,7 +2,7 @@
 
 <img align="right" alt="gif-code" height="250" src="http://icons.luizlima.online/gifs/giphy.gif">
 
-Atualmente presto serviços para a web.art group, uma grande empresa tecnológica com foco em marketplace, e meu principal papel é colaborar no backend da plataforma de base PHP dando manutenção e desenvolvendo novas integrações de canais de vendas e mídias, tal como Merchant Center, Shopee, Amazon entre outros canais de venda.
+Atualmente presto serviços para a web.art group, uma grande empresa tecnológica com foco em marketplace, e meu principal papel é colaborar no backend da plataforma de base PHP dando manutenção e desenvolvendo novas integrações de canais de vendas e mídias, tal como Merchant Center, Shopee, Amazon entre outros.
 
 - 👨🏻‍💻 Developer with more then 3 years experience;
 - 🔭 I’m currently working on a [web.art group](https://www.webart.com.br/) 🌱;
