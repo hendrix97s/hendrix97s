@@ -23,6 +23,8 @@ Atualmente presto serviços para a web.art group, uma grande empresa tecnológic
   <code><img alt="Laravel"    height="40" src="http://icons.luizlima.online/laravel/laravel-plain.svg"></code>
   <code><img alt="graphQL"    height="40" src="http://icons.luizlima.online/graphql/graphql-plain.svg"></code>
   <code><img alt="mySQL"      height="40" src="http://icons.luizlima.online/mysql/mysql-plain.svg"></code>
+  <code><img alt="Blender"      height="40" src="http://icons.luizlima.online/blender/blrender.svg"></code>
+ 
  
  <br/>
  <br/>
@@ -36,6 +38,7 @@ Atualmente presto serviços para a web.art group, uma grande empresa tecnológic
   <code><img alt="Windows"    height="40" src="http://icons.luizlima.online/windows8/windows8-original.svg"></code>
   <code><img alt="Excel"      height="40" src="http://icons.luizlima.online/microsoft/excel.svg"></code>
   <code><img alt="Access"     height="40" src="http://icons.luizlima.online/microsoft/access.svg"></code>
+  <code><img alt="Photoshop"     height="40" src="http://icons.luizlima.online/photoshop/photoshop-line.svg"></code>
   
  
  
