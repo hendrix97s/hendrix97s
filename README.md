@@ -1,11 +1,11 @@
-## Olá! Me chamo Luiz Felipe, e vou falar um pouco do que faço hoje... 
+## Hi, my name is Luiz and I'm a Full Stack programmer.
 
 <img align="right" alt="gif-code" height="250" src="http://icons.luizlima.online/gifs/giphy.gif">
 
-Atualmente presto serviços para a web.art group, uma grande empresa tecnológica com foco em marketplace, e meu principal papel é colaborar no backend da plataforma de base PHP dando manutenção e desenvolvendo novas integrações de canais de vendas e mídias, tal como Merchant Center, Shopee, Amazon entre outros.
+I currently provide web development services for Buzzvel using several tools, such as: Laravel, PHPunit, Next.js, Vue.js and Tailwindcss.
 
-- 👨🏻‍💻 Developer with more then 3 years experience;
-- 🔭 I’m currently working on a [web.art group](https://www.webart.com.br/) 🌱;
+- 👨🏻‍💻 Developer with more then 4 years experience;
+- 🔭 I’m currently working on a [Buzzvel](https://buzzvel.com/) 🌱;
 - 🌱 I’m currently learning everything 🤣;
 - 💡 I love innovation and new technologies;
 - 🚀 One day I will see life on other planets;
