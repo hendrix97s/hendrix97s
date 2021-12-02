@@ -1,6 +1,6 @@
 ## Hi, my name is Luiz and I'm a Full Stack programmer.
 
-<img align="right" alt="gif-code" height="250" src="http://icons.luizlima.online/gifs/giphy.gif">
+<img align="right" alt="gif-code" height="250" src="">
 
 I currently provide web development services for Buzzvel using several tools, such as: Laravel, PHPunit, Next.js, Vue.js and Tailwindcss.
 
