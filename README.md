@@ -4,7 +4,7 @@
 
 I currently provide web development services for Buzzvel using several tools, such as: Laravel, PHPunit, Next.js, Vue.js and Tailwindcss.
 
-- 👨🏻‍💻 Developer with more then 4 years experience;
+- 👨🏻‍💻 Developer with more then 5 years experience;
 - 🔭 I’m currently working on [Buzzvel](https://buzzvel.com/) 🌱;
 - 🌱 I’m currently learning everything 🤣;
 - 💡 I love innovation and new technologies;
