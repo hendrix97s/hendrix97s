@@ -21,6 +21,8 @@ I'm a PHP developer with broad understanding skills for creating new application
 
 I'm always looking for new challenges and opportunities to apply my skills and knowledge to provide high quality solutions to business needs.
 
+<img src="./dev.gif" alt="Astronalta no computador">
+
   <br />
 
   ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
