@@ -24,8 +24,8 @@ I'm a PHP developer with broad understanding skills for creating new application
 
 I'm always looking for new challenges and opportunities to apply my skills and knowledge to provide high quality solutions to business needs.
 
-### Favorite technologies:
-<p align="left"> 
+## Favorite technologies:
+<p align="center"> 
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></code>
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></code>
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></code>
