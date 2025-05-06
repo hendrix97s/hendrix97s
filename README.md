@@ -3,7 +3,7 @@
 <!-- <img align="right" src="./pc.gif" alt="PC psicodelico" width="400"> -->
   ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 <p align="center"> 
-  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></code>
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg" alt="Elixir" width="40" height="40"/></code>
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></code>
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></code>
   <code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></code>
